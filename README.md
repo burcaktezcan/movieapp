@@ -1,3 +1,7 @@
+## Project view
+
+<img src=https://raw.githubusercontent.com/burcaktezcan/movieapp/master/movieappview.PNG weight=600 height=600></img>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
